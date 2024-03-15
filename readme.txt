@@ -18,6 +18,7 @@
 
 
 
+
 cd ~
 rm -rf cpanel_defaultwebpage.html
 rm -rf /var/www/html/index.html
