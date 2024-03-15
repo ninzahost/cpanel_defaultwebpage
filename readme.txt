@@ -1,10 +1,5 @@
-
-
-
-
-
-
-
+wget -O /var/www/html/403.png https://raw.githubusercontent.com/ninzahost/cpanel_defaultwebpage/main/403.png
+wget -O /var/www/html/index.html https://raw.githubusercontent.com/ninzahost/cpanel_defaultwebpage/main/index.html
 
 
 
